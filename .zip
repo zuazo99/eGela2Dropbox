@@ -1,0 +1,1 @@
+Error in call to API function "files/download_zip": HTTP header "Dropbox-API-Arg": path: The root folder is unsupported.
